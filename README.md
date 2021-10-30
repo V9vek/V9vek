@@ -2,7 +2,7 @@
 
 Learning Android Development.
 
-I learn and do graphic designing, UI/UX work for fun.
+Do graphic designing, UI/UX work for fun.
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=V9vek&show_icons=true&theme=dracula)
 
