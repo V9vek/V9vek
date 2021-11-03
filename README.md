@@ -4,6 +4,8 @@ Learning Android Development.
 
 Do graphic designing, UI/UX work for fun.
 
+![](https://komarev.com/ghpvc/?username=V9vek)
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=V9vek&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V9vek&layout=compact&theme=dracula)
