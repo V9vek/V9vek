@@ -1,23 +1,20 @@
-# Hi there👋! I'm Vivek
+### Hi there 👋
 
-Learning Android Development.
+My name is Vivek and I'm currently a MCA student from NIT KKR, India. Here's some info about me!
 
-Do graphic designing, UI/UX work for fun.
+🌱 Interests:
+- Android development.
+- Graphic designing.
 
-![](https://komarev.com/ghpvc/?username=V9vek)
+💬 Reach me by email or LinkedIn! viveksharma2382000@gmail.com | https://www.linkedin.com/in/vivek-sharma-me/
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=V9vek&show_icons=true&theme=dracula)
+📈 Github stats:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=V9vek&layout=compact&theme=dracula)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=v9vek&show_icons=true&locale=en&bg_color=171717&title_color=FDFDFD&icon_color=60C477&text_color=C5C5C5" alt="v9vek" /></p>
 
----
+⚡ Know more about me:
 
-## 🔗 Know more about me 
-
-[<img align= "left" width="24px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1635410895~hmac=a985b271a2abd9c9812e867e980909f4">][linkedin]
-[<img align= "left" width="24px" src="https://cdn-icons.flaticon.com/png/512/3256/premium/3256013.png?token=exp=1635410835~hmac=ba1827b00584a67efc8ecc5871285206">][twitter]
-
-<br>
-
-[linkedin]: https://www.linkedin.com/in/vivek-sharma-me
-[twitter]: https://twitter.com/V9vek
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:viveksharma2382000@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/V9vek)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/vivek-sharma-me/)
+[![Behance](https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=Behance)](https://www.behance.net/vivek-sharma-me)
