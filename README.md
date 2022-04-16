@@ -6,6 +6,9 @@ My name is Vivek and I'm currently a MCA student from NIT KKR, India. Here's som
 - Android development.
 - Graphic designing.
 
+🔭 Currently: 
+- Exploring Android Jetpack Compose and Backend stuff with Kotlin
+
 💬 Reach me by email or LinkedIn! viveksharma2382000@gmail.com | https://www.linkedin.com/in/vivek-sharma-me/
 
 📈 Github stats:
@@ -14,7 +17,7 @@ My name is Vivek and I'm currently a MCA student from NIT KKR, India. Here's som
 
 ⚡ Know more about me:
 
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:viveksharma2382000@gmail.com)
+[![Mail](https://img.shields.io/badge/-GMail-black?style=for-the-badge&logo=gmail)](mailto:viveksharma2382000@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/V9vek)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/vivek-sharma-me/)
 [![Behance](https://img.shields.io/badge/-Behance-black?style=for-the-badge&logo=Behance)](https://www.behance.net/vivek-sharma-me)
